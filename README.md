@@ -5,3 +5,12 @@ How to edit images with python depending on the input data, where input data can
 
 Some standard tools and open source libraries exist https://docs.python-guide.org/scenarios/imaging/
 We extend and generlize them.
+Top libraries for that:
+
+    Scikit-image
+    OpenCV
+    Mahotas
+    SimplelTK
+    SciPy
+    Pillow
+    Matplotlib
